@@ -1,7 +1,7 @@
 name: "texte.selk-radevormwald.de"
 url: "http://www.texte.selk-radevormwald.de"
 markdown: kramdown
-highlighter: true
+highlighter: rouge
 layout: default
 
 # Markdown Processing
