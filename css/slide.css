@@ -1,0 +1,27 @@
+#wrapper {
+	background-color: white;
+	width: 600px;
+	padding: 0px;
+	box-shadow: 0 0 20px #999;
+}
+
+.image_carousel {
+	margin-left:  0;
+	padding-left: 0;
+}
+.image_carousel img {
+	border: 1px solid #ccc;
+	background-color: white;
+	padding: 9px;
+	margin: 7px;
+	display: block;
+	float: left;
+}
+.image_carousel a {
+	display: block;
+	float: left;
+}
+.clearfix {
+	float: none;
+	clear: both;
+}
