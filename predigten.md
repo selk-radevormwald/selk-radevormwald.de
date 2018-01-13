@@ -11,6 +11,7 @@ herunterladen k&ouml;nnen. Die Texte sind chronologisch absteigend nach ihrem Er
 
 2018
 ----
++ [Predigt am 2.Sonntag nach Epiphanias, 14.01.2018, 1. Korinther 2,1-5, Pfarrvikar Florian Reinecke](./texte/2018/pt20180114.pdf) 
 + [Predigt an Neujahr, 01.01.2018, Offenbarung 21,6, Pfarrvikar Florian Reinecke](./texte/2018/pt20180101.pdf) 
 
 2017
