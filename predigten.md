@@ -11,6 +11,7 @@ herunterladen k&ouml;nnen. Die Texte sind chronologisch absteigend nach ihrem Er
 
 2018
 ----
++ [Predigt zu Estomihi, 11.02.2018, Amos 5,21-24, Pfarrvikar Florian Reinecke](./texte/2018/pt20180211.pdf) 
 + [Predigt am Letzten Sonntag nach Epiphanias, 21.01.2018, Offenbarung 1,9-18, Pfarrvikar Florian Reinecke](./texte/2018/pt20180121.pdf) 
 + [Predigt am 2.Sonntag nach Epiphanias, 14.01.2018, 1. Korinther 2,1-5, Pfarrvikar Florian Reinecke](./texte/2018/pt20180114.pdf) 
 + [Predigt an Neujahr, 01.01.2018, Offenbarung 21,6, Pfarrvikar Florian Reinecke](./texte/2018/pt20180101.pdf) 
