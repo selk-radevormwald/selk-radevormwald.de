@@ -11,6 +11,7 @@ herunterladen k&ouml;nnen. Die Texte sind chronologisch absteigend nach ihrem Er
 
 2018
 ----
++ [Predigt zu Lätare, 11.03.2018, Philipper 2,6-11, Blicke aufs Kreuz 3/5, Pfarrvikar Florian Reinecke](./texte/2018/pt20180311.pdf)
 + [Predigt zu Invokavit, 18.02.2018, Markus 15,20b-22.24, Blicke aufs Kreuz 2/5, Pfarrvikar Florian Reinecke](./texte/2018/pt20180218.pdf)
 + [Predigt zu Aschermittwoch, 14.02.2018, Markus 8,34-35, Blicke aufs Kreuz 1/5, Pfarrvikar Florian Reinecke](./texte/2018/pt20180214.pdf) 
 + [Predigt zu Estomihi, 11.02.2018, Amos 5,21-24, Pfarrvikar Florian Reinecke](./texte/2018/pt20180211.pdf) 
