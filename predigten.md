@@ -11,6 +11,8 @@ herunterladen k&ouml;nnen. Die Texte sind chronologisch absteigend nach ihrem Er
 
 2018
 ----
++ [Predigt zu Palmarum, 25.03.2018, Prediger 3, 1-4.7.11, Blicke aufs Kreuz 5/5, Pfarrvikar Florian Reinecke](./texte/2018/pt20180325.pdf)
++ [Predigt zu Judika, 18.03.2018, Lukas 23,33-49, Blicke aufs Kreuz 4/5, Pfarrvikar Florian Reinecke](./texte/2018/pt20180318.pdf)
 + [Predigt zu Lätare, 11.03.2018, Philipper 2,6-11, Blicke aufs Kreuz 3/5, Pfarrvikar Florian Reinecke](./texte/2018/pt20180311.pdf)
 + [Predigt zu Invokavit, 18.02.2018, Markus 15,20b-22.24, Blicke aufs Kreuz 2/5, Pfarrvikar Florian Reinecke](./texte/2018/pt20180218.pdf)
 + [Predigt zu Aschermittwoch, 14.02.2018, Markus 8,34-35, Blicke aufs Kreuz 1/5, Pfarrvikar Florian Reinecke](./texte/2018/pt20180214.pdf) 
