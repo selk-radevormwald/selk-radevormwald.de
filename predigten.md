@@ -11,6 +11,9 @@ herunterladen k&ouml;nnen. Die Texte sind chronologisch absteigend nach ihrem Er
 
 2018
 ----
++ [Predigt zu Ostern, 01.04.2018, Lukas 24,13-35, Pfarrvikar Florian Reinecke](./texte/2018/pt20180401.pdf)
++ [Predigt zur Osternacht, 31.03.2018, Johannes 11,25+26, Pfarrvikar Florian Reinecke](./texte/2018/pt20180331.pdf)
++ [Predigt zu Gründonerstag, 29.03.2018, Markus 14,11-26, Pfarrvikar Florian Reinecke](./texte/2018/pt20180329.pdf)
 + [Predigt zu Palmarum, 25.03.2018, Prediger 3, 1-4.7.11, Blicke aufs Kreuz 5/5, Pfarrvikar Florian Reinecke](./texte/2018/pt20180325.pdf)
 + [Predigt zu Judika, 18.03.2018, Lukas 23,33-49, Blicke aufs Kreuz 4/5, Pfarrvikar Florian Reinecke](./texte/2018/pt20180318.pdf)
 + [Predigt zu Lätare, 11.03.2018, Philipper 2,6-11, Blicke aufs Kreuz 3/5, Pfarrvikar Florian Reinecke](./texte/2018/pt20180311.pdf)
