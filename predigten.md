@@ -11,6 +11,8 @@ herunterladen k&ouml;nnen. Die Texte sind chronologisch absteigend nach ihrem Er
 
 2018
 ----
++ [Predigt an Jubilate, 22.04.2018, 2. Korinther 4,16-18, Pfarrvikar Florian Reinecke](./texte/2018/pt20180422.pdf)
++ [Predigt an Miserikordias Domini, 15.04.2018, 1. Petrus 5,1-4, Pfarrvikar Florian Reinecke](./texte/2018/pt20180415.pdf)
 + [Predigt zu Ostern, 01.04.2018, Lukas 24,13-35, Pfarrvikar Florian Reinecke](./texte/2018/pt20180401.pdf)
 + [Predigt zur Osternacht, 31.03.2018, Johannes 11,25+26, Pfarrvikar Florian Reinecke](./texte/2018/pt20180331.pdf)
 + [Predigt zu Gründonerstag, 29.03.2018, Markus 14,11-26, Pfarrvikar Florian Reinecke](./texte/2018/pt20180329.pdf)
