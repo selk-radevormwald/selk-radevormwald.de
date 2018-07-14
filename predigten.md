@@ -18,6 +18,7 @@ herunterladen k&ouml;nnen. Die Texte sind chronologisch absteigend nach ihrem Er
 + [Predigt am 1.S.n.Trinitatis, 03.06.2018, Jeremia 23,16-29, Pastor Florian Reinecke](./texte/2018/pt20180603.pdf)
 + [Predigt an Trinitatis, 27.05.2018, Epheser 1,3-14, Pastor Florian Reinecke](./texte/2018/pt20180527.pdf)
 + [Predigt am Pfingstsonntag, 20.05.2018, 1. Korinther 2,12-16, Pastor Hinrich Schorling (Witten)](./texte/2018/pt20180520.pdf)
++ [Predigt an Himmelfahrt, 10.05.2018, Lukas 24,50-53, Pastor Florian Reinecke](./texte/2018/pt20180510.pdf)
 + [Predigt an Kantate, 29.04.2018, Apostelgeschichte 16,23-34, Pfarrvikar Florian Reinecke](./texte/2018/pt20180429.pdf)
 + [Predigt an Jubilate, 22.04.2018, 2. Korinther 4,16-18, Pfarrvikar Florian Reinecke](./texte/2018/pt20180422.pdf)
 + [Predigt an Miserikordias Domini, 15.04.2018, 1. Petrus 5,1-4, Pfarrvikar Florian Reinecke](./texte/2018/pt20180415.pdf)
