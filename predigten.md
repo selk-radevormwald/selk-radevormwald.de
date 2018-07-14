@@ -11,6 +11,10 @@ herunterladen k&ouml;nnen. Die Texte sind chronologisch absteigend nach ihrem Er
 
 2018
 ----
++ [Predigt am 7.S.n.Trinitatis, 15.07.2018, Philipper 2,1-4, Pastor Florian Reinecke](./texte/2018/pt20180715.pdf)
++ [Predigt am 6.S.n.Trinitatis, 08.07.2018, 1. Korinther 13,13, Kurzpredigt für Familien zur Tauferinnerung, Pastor Florian Reinecke](./texte/2018/pt20180708.pdf)
++ [Predigt am 5.S.n.Trinitatis, 01.07.2018, Offenbarung 12,7-12, Fußball-WM, Pastor Florian Reinecke](./texte/2018/pt20180701.pdf)
++ [Predigt am 3.S.n.Trinitatis, 17.06.2018, 1.Johannes 1,5-2,6, Pastor Florian Reinecke](./texte/2018/pt20180617.pdf)
 + [Predigt am 1.S.n.Trinitatis, 03.06.2018, Jeremia 23,16-29, Pastor Florian Reinecke](./texte/2018/pt20180603.pdf)
 + [Predigt an Trinitatis, 27.05.2018, Epheser 1,3-14, Pastor Florian Reinecke](./texte/2018/pt20180527.pdf)
 + [Predigt am Pfingstsonntag, 20.05.2018, 1. Korinther 2,12-16, Pastor Hinrich Schorling (Witten)](./texte/2018/pt20180520.pdf)
