@@ -9,8 +9,26 @@ Predigten
 Auf dieser Seite finden Sie Predigttexte, die Sie zum entspannten Offline-Lesen auf Ihren Rechner
 herunterladen k&ouml;nnen. Die Texte sind chronologisch absteigend nach ihrem Erscheinungsjahr sortiert.
 
+2019
+----
++ [Predigt am L.S.n. Epiphanias, 10.02.2019, Markus 4,35-41, Pastor Florian Reinecke](./texte/2018/pt20190210.pdf)
++ [Predigt am 2.S.n. Epiphanias, 20.01.2019, 2. Mose 12,1-14, Pastor Florian Reinecke](./texte/2018/pt20190120.pdf)
++ [Predigt zum Epiphaniasfest, 06.01.2019, Matthäus 2,1-12, Pastor Florian Reinecke](./texte/2018/pt20190106.pdf)
+
 2018
 ----
++ [Predigt am Altjahrsabend, 31.12.2018, Jesaja 51,6, Pastor Florian Reinecke](./texte/2018/pt20181231.pdf)
++ [Predigt am 1.Weihnachtsfeiertag, 02.12.2018, Matthäus 21,1-11, Pastor Florian Reinecke](./texte/2018/pt20181225.pdf)
++ [Predigt zur Christvesper, 24.12.2018, 1. Timotheus 3,16, Pastor Florian Reinecke](./texte/2018/pt20181224.pdf)
++ [Predigt am 3.Advent, 16.12.2018, Römer 15,4-13, Pastor Florian Reinecke](./texte/2018/pt20181216.pdf)
++ [Predigt am 2.Advent, 09.12.2018, Jesaja 35,3-10, Pastor Florian Reinecke](./texte/2018/pt20181209.pdf)
++ [Predigt am 1.Advent, 02.12.2018, Matthäus 21,1-11, Pastor Florian Reinecke](./texte/2018/pt20181202.pdf)
++ [Predigt am Ewigkeitssonntag, 25.11.2018, Jesaja 65,17-25, Pastor Florian Reinecke](./texte/2018/pt20181125.pdf)
++ [Predigt am Buß- und Bettag, 21.11.2018, Römer 2,1-11, Pastor Florian Reinecke](./texte/2018/pt20181121.pdf)
++ [Predigt am 19.S.n.Trinitatis, 07.10.2018, Jakobus 5,13-16, Pastor Florian Reinecke](./texte/2018/pt20181007.pdf)
++ [Predigt am 16.S.n.Trinitatis, 15.09.2018, Lukas 17,5-6, Pastor Florian Reinecke](./texte/2018/pt20180915.pdf)
++ [Predigt am 13.S.n.Trinitatis, 26.08.2018, 1.Mose 28,15a+ Psalm 139,9.10, Taufe, Pastor Florian Reinecke](./texte/2018/pt20180826.pdf)
++ [Predigt am 12.S.n.Trinitatis, 19.08.2018, Apostelgeschichte 3,1-10, Pastor Florian Reinecke](./texte/2018/pt20180819.pdf)
 + [Predigt am 7.S.n.Trinitatis, 15.07.2018, Philipper 2,1-4, Pastor Florian Reinecke](./texte/2018/pt20180715.pdf)
 + [Predigt am 6.S.n.Trinitatis, 08.07.2018, 1. Korinther 13,13, Kurzpredigt für Familien zur Tauferinnerung, Pastor Florian Reinecke](./texte/2018/pt20180708.pdf)
 + [Predigt am 5.S.n.Trinitatis, 01.07.2018, Offenbarung 12,7-12, Fußball-WM, Pastor Florian Reinecke](./texte/2018/pt20180701.pdf)
