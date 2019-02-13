@@ -12,6 +12,7 @@ herunterladen k&ouml;nnen. Die Texte sind chronologisch absteigend nach ihrem Er
 2019
 ----
 + [Predigt am L.S.n. Epiphanias, 10.02.2019, Markus 4,35-41, Pastor Florian Reinecke](./texte/2018/pt20190210.pdf)
++ [Predigt am 4.S.n. Epiphanias, 03.02.2019, 1. Korinther 1,4-9, Vikar Per Tüchsen](./texte/2018/pt20190203.pdf)
 + [Predigt am 2.S.n. Epiphanias, 20.01.2019, 2. Mose 12,1-14, Pastor Florian Reinecke](./texte/2018/pt20190120.pdf)
 + [Predigt zum Epiphaniasfest, 06.01.2019, Matthäus 2,1-12, Pastor Florian Reinecke](./texte/2018/pt20190106.pdf)
 
