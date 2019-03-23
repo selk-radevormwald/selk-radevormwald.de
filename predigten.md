@@ -11,6 +11,10 @@ herunterladen k&ouml;nnen. Die Texte sind chronologisch absteigend nach ihrem Er
 
 2019
 ----
++ [Predigt am Sonntag Okuli, 24.03.2019, Jeremia 20,7-11a, Pastor Florian Reinecke](./texte/2018/pt20190324.pdf)
++ [Predigt am Sonntag Invokavit, 10.03.2019, Hebräer 4,14-16, Pastor Florian Reinecke](./texte/2018/pt20190310.pdf)
++ [Predigt am Aschermittwoch, 06.02.2019, Psalm 139,1-6, Pastor Florian Reinecke](./texte/2018/pt20190306.pdf)
++ [Predigt am Sonntag Estomihi, 03.03.2019, Lukas 10,38-42, Pastor Florian Reinecke](./texte/2018/pt20190303.pdf)
 + [Predigt am Sonntag Septuagesimae, 17.02.2019, Prediger 7,15-18, Pastor Florian Reinecke](./texte/2018/pt20190217.pdf)
 + [Predigt am L.S.n. Epiphanias, 10.02.2019, Markus 4,35-41, Pastor Florian Reinecke](./texte/2018/pt20190210.pdf)
 + [Predigt am 4.S.n. Epiphanias, 03.02.2019, 1. Korinther 1,4-9, Vikar Per Tüchsen](./texte/2018/pt20190203.pdf)
