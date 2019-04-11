@@ -11,15 +11,15 @@ herunterladen k&ouml;nnen. Die Texte sind chronologisch absteigend nach ihrem Er
 
 2019
 ----
-+ [Predigt am Sonntag Okuli, 24.03.2019, Jeremia 20,7-11a, Pastor Florian Reinecke](./texte/2018/pt20190324.pdf)
-+ [Predigt am Sonntag Invokavit, 10.03.2019, Hebräer 4,14-16, Pastor Florian Reinecke](./texte/2018/pt20190310.pdf)
-+ [Predigt am Aschermittwoch, 06.02.2019, Psalm 139,1-6, Pastor Florian Reinecke](./texte/2018/pt20190306.pdf)
-+ [Predigt am Sonntag Estomihi, 03.03.2019, Lukas 10,38-42, Pastor Florian Reinecke](./texte/2018/pt20190303.pdf)
-+ [Predigt am Sonntag Septuagesimae, 17.02.2019, Prediger 7,15-18, Pastor Florian Reinecke](./texte/2018/pt20190217.pdf)
-+ [Predigt am L.S.n. Epiphanias, 10.02.2019, Markus 4,35-41, Pastor Florian Reinecke](./texte/2018/pt20190210.pdf)
-+ [Predigt am 4.S.n. Epiphanias, 03.02.2019, 1. Korinther 1,4-9, Vikar Per Tüchsen](./texte/2018/pt20190203.pdf)
-+ [Predigt am 2.S.n. Epiphanias, 20.01.2019, 2. Mose 12,1-14, Pastor Florian Reinecke](./texte/2018/pt20190120.pdf)
-+ [Predigt zum Epiphaniasfest, 06.01.2019, Matthäus 2,1-12, Pastor Florian Reinecke](./texte/2018/pt20190106.pdf)
++ [Predigt am Sonntag Okuli, 24.03.2019, Jeremia 20,7-11a, Pastor Florian Reinecke](./texte/2019/pt20190324.pdf)
++ [Predigt am Sonntag Invokavit, 10.03.2019, Hebräer 4,14-16, Pastor Florian Reinecke](./texte/2019/pt20190310.pdf)
++ [Predigt am Aschermittwoch, 06.02.2019, Psalm 139,1-6, Pastor Florian Reinecke](./texte/2019/pt20190306.pdf)
++ [Predigt am Sonntag Estomihi, 03.03.2019, Lukas 10,38-42, Pastor Florian Reinecke](./texte/2019/pt20190303.pdf)
++ [Predigt am Sonntag Septuagesimae, 17.02.2019, Prediger 7,15-18, Pastor Florian Reinecke](./texte/2019/pt20190217.pdf)
++ [Predigt am L.S.n. Epiphanias, 10.02.2019, Markus 4,35-41, Pastor Florian Reinecke](./texte/2019/pt20190210.pdf)
++ [Predigt am 4.S.n. Epiphanias, 03.02.2019, 1. Korinther 1,4-9, Vikar Per Tüchsen](./texte/2019/pt20190203.pdf)
++ [Predigt am 2.S.n. Epiphanias, 20.01.2019, 2. Mose 12,1-14, Pastor Florian Reinecke](./texte/2019/pt20190120.pdf)
++ [Predigt zum Epiphaniasfest, 06.01.2019, Matthäus 2,1-12, Pastor Florian Reinecke](./texte/2019/pt20190106.pdf)
 
 2018
 ----
@@ -53,11 +53,11 @@ herunterladen k&ouml;nnen. Die Texte sind chronologisch absteigend nach ihrem Er
 + [Predigt zu Judika, 18.03.2018, Lukas 23,33-49, Blicke aufs Kreuz 4/5, Pfarrvikar Florian Reinecke](./texte/2018/pt20180318.pdf)
 + [Predigt zu Lätare, 11.03.2018, Philipper 2,6-11, Blicke aufs Kreuz 3/5, Pfarrvikar Florian Reinecke](./texte/2018/pt20180311.pdf)
 + [Predigt zu Invokavit, 18.02.2018, Markus 15,20b-22.24, Blicke aufs Kreuz 2/5, Pfarrvikar Florian Reinecke](./texte/2018/pt20180218.pdf)
-+ [Predigt zu Aschermittwoch, 14.02.2018, Markus 8,34-35, Blicke aufs Kreuz 1/5, Pfarrvikar Florian Reinecke](./texte/2018/pt20180214.pdf) 
-+ [Predigt zu Estomihi, 11.02.2018, Amos 5,21-24, Pfarrvikar Florian Reinecke](./texte/2018/pt20180211.pdf) 
-+ [Predigt am Letzten Sonntag nach Epiphanias, 21.01.2018, Offenbarung 1,9-18, Pfarrvikar Florian Reinecke](./texte/2018/pt20180121.pdf) 
-+ [Predigt am 2.Sonntag nach Epiphanias, 14.01.2018, 1. Korinther 2,1-5, Pfarrvikar Florian Reinecke](./texte/2018/pt20180114.pdf) 
-+ [Predigt an Neujahr, 01.01.2018, Offenbarung 21,6, Pfarrvikar Florian Reinecke](./texte/2018/pt20180101.pdf) 
++ [Predigt zu Aschermittwoch, 14.02.2018, Markus 8,34-35, Blicke aufs Kreuz 1/5, Pfarrvikar Florian Reinecke](./texte/2018/pt20180214.pdf)
++ [Predigt zu Estomihi, 11.02.2018, Amos 5,21-24, Pfarrvikar Florian Reinecke](./texte/2018/pt20180211.pdf)
++ [Predigt am Letzten Sonntag nach Epiphanias, 21.01.2018, Offenbarung 1,9-18, Pfarrvikar Florian Reinecke](./texte/2018/pt20180121.pdf)
++ [Predigt am 2.Sonntag nach Epiphanias, 14.01.2018, 1. Korinther 2,1-5, Pfarrvikar Florian Reinecke](./texte/2018/pt20180114.pdf)
++ [Predigt an Neujahr, 01.01.2018, Offenbarung 21,6, Pfarrvikar Florian Reinecke](./texte/2018/pt20180101.pdf)
 
 2017
 ----
