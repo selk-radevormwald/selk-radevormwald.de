@@ -11,6 +11,13 @@ herunterladen k&ouml;nnen. Die Texte sind chronologisch absteigend nach ihrem Er
 
 2019
 ----
++ [Predigt am Sonntag Jubilate, 12.05.2019, Sprüche 8,22-36, Pastor Florian Reinecke](./texte/2019/pt20190512.pdf)
++ [Predigt am Sonntag Miserikordias Domini, Konfirmation, 05.05.2019, Apostelgeschichte 17,16-28, Pastor Florian Reinecke](./texte/2019/pt20190505.pdf)
++ [Predigt am Ostersonntag, 21.04.2019, Johannes 20,11-18, Pastor Florian Reinecke](./texte/2019/pt20190421.pdf)
++ [Predigt in der Osternacht, 20.04.2019, Kolosser 3,1-4, Pastor Florian Reinecke](./texte/2019/pt20190420.pdf)
++ [Predigt am Karfreitag, 19.04.2019, Lukas 23,33, Pastor Florian Reinecke](./texte/2019/pt20190419.pdf)
++ [Predigt am Gründonnerstag, 18.04.2019, Johannes 13,1-20, Pastor Florian Reinecke](./texte/2019/pt20190418.pdf)
++ [Predigt am Sonntag Judika, 06.04.2019, Johannes 18,28-19,5, Pastor Florian Reinecke](./texte/2019/pt20190406.pdf)
 + [Predigt am Sonntag Okuli, 24.03.2019, Jeremia 20,7-11a, Pastor Florian Reinecke](./texte/2019/pt20190324.pdf)
 + [Predigt am Sonntag Invokavit, 10.03.2019, Hebräer 4,14-16, Pastor Florian Reinecke](./texte/2019/pt20190310.pdf)
 + [Predigt am Aschermittwoch, 06.02.2019, Psalm 139,1-6, Pastor Florian Reinecke](./texte/2019/pt20190306.pdf)
