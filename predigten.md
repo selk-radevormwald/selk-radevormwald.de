@@ -11,6 +11,10 @@ herunterladen k&ouml;nnen. Die Texte sind chronologisch absteigend nach ihrem Er
 
 2019
 ----
++ [Predigt am Sonntag Trinitatis, 16.06.2019, 2. Korinther 13,11-13, Pastor Florian Reinecke](./texte/2019/pt20190616.pdf)
++ [Predigt am Sonntag Exaudi, 02.06.2019, 2. Mose 20,8-11, Predigt zum Sonntagsschutz, Pastor Florian Reinecke](./texte/2019/pt20190602.pdf)
++ [Predigt am Sonntag Rogate, 26.05.2019, Johannes 16,23-33, Pastor Florian Reinecke](./texte/2019/pt20190526.pdf)
++ [Predigt am Sonntag Kantate, 19.05.2019, Apostelgeschichte 16,23-34, Pastor Florian Reinecke](./texte/2019/pt20190519.pdf)
 + [Predigt am Sonntag Jubilate, 12.05.2019, Sprüche 8,22-36, Pastor Florian Reinecke](./texte/2019/pt20190512.pdf)
 + [Predigt am Sonntag Miserikordias Domini, Konfirmation, 05.05.2019, Apostelgeschichte 17,16-28, Pastor Florian Reinecke](./texte/2019/pt20190505.pdf)
 + [Predigt am Ostersonntag, 21.04.2019, Johannes 20,11-18, Pastor Florian Reinecke](./texte/2019/pt20190421.pdf)
