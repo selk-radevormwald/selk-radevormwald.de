@@ -11,6 +11,7 @@ herunterladen k&ouml;nnen. Die Texte sind chronologisch absteigend nach ihrem Er
 
 2019
 ----
++ [Predigt am 11.Sonntag nach Trinitatis, 01.09.2019, Hiob 23, Pastor Florian Reinecke](./texte/2019/pt20190901.pdf)
 + [Predigt am 10.Sonntag nach Trinitatis, 25.08.2019, Markus 12,28-34, Pastor Florian Reinecke](./texte/2019/pt20190825.pdf)
 + [Predigt am 7.Sonntag nach Trinitatis, 04.08.2019, Johannes 6,30-35, Pastor Florian Reinecke](./texte/2019/pt20190804.pdf)
 + [Predigt am 6.Sonntag nach Trinitatis, 28.07.2019, 1. Petrus 2,5+6+9+10, Pastor Florian Reinecke](./texte/2019/pt20190728.pdf)
